@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background: linear-gradient(#c4a5f3 0%, #03045e 100%);
+  }
+  #button {
+    width: 100px;
+    height: 30px;
+    color: white;
+    background-color: #0d1b2a;
+    border-radius: 20px;
+    border-color: blue;
+    font-family: fantasy;
+  }
+  h1 {
+    font-family: fantasy;
+  }
+  .line {
+    background-color: black;
+    height: 5px;
+   
+    
+  }
+
+  img {
+    width: 300px;
+  }
+  
